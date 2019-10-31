@@ -1,0 +1,11 @@
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\bin\Debug\netcoreapp2.1\LISTA_ARREGLO.deps.json
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\bin\Debug\netcoreapp2.1\LISTA_ARREGLO.runtimeconfig.json
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\bin\Debug\netcoreapp2.1\LISTA_ARREGLO.runtimeconfig.dev.json
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\bin\Debug\netcoreapp2.1\LISTA_ARREGLO.dll
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\bin\Debug\netcoreapp2.1\LISTA_ARREGLO.pdb
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\obj\Debug\netcoreapp2.1\LISTA_ARREGLO.csprojAssemblyReference.cache
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\obj\Debug\netcoreapp2.1\LISTA_ARREGLO.csproj.CoreCompileInputs.cache
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\obj\Debug\netcoreapp2.1\LISTA_ARREGLO.AssemblyInfoInputs.cache
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\obj\Debug\netcoreapp2.1\LISTA_ARREGLO.AssemblyInfo.cs
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\obj\Debug\netcoreapp2.1\LISTA_ARREGLO.dll
+C:\Users\FACCI\source\repos\LISTA_ARREGLO\LISTA_ARREGLO\obj\Debug\netcoreapp2.1\LISTA_ARREGLO.pdb

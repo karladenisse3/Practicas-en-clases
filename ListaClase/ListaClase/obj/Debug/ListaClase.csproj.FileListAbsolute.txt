@@ -1,0 +1,7 @@
+C:\Users\FACCI\source\repos\ListaClase\ListaClase\bin\Debug\ListaClase.exe.config
+C:\Users\FACCI\source\repos\ListaClase\ListaClase\bin\Debug\ListaClase.exe
+C:\Users\FACCI\source\repos\ListaClase\ListaClase\bin\Debug\ListaClase.pdb
+C:\Users\FACCI\source\repos\ListaClase\ListaClase\obj\Debug\ListaClase.csprojAssemblyReference.cache
+C:\Users\FACCI\source\repos\ListaClase\ListaClase\obj\Debug\ListaClase.csproj.CoreCompileInputs.cache
+C:\Users\FACCI\source\repos\ListaClase\ListaClase\obj\Debug\ListaClase.exe
+C:\Users\FACCI\source\repos\ListaClase\ListaClase\obj\Debug\ListaClase.pdb
