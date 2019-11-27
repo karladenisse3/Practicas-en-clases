@@ -1,0 +1,29 @@
+﻿
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+using Geometria.Clases;
+using Geometria.Interfaces;
+
+
+namespace Geometria
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Triangulo triangulo = new Triangulo() { NumeroLados = 3, NumeroSimboloPorLado = 10, Simbolo="*" };
+            Cuadrado cuadrado = new Cuadrado() { NumeroLados = 4, NumeroSimboloPorLado = 10, Simbolo = "@" };
+            Rombo rombo = new Rombo() { NumeroLados = 4, NumeroSimboloPorLado = 10, Simbolo = "X" };
+
+            foreach (Figuras item in new List<Figuras>() { cuadrado,rombo,  triangulo})
+            {
+                Console.WriteLine(item.DibujarContorno());
+            }
+        }
+    }
+}

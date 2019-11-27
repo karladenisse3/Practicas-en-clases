@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Geometria.Clases
+{
+    class Triangulo : Figuras
+    {
+        public Triangulo()
+        {
+
+        }
+        public override string DibujarContorno()
+        {
+            return "";
+        }
+
+        public override string DibujarFiguraLLena()
+        {
+            return "";
+        }
+
+        public override string FirmaAutir()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override int NumeroCaracteres()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override string TituloFiguraDibujada()
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

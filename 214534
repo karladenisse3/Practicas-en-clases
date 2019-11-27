@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Geometria.Clases;
+using Geometria.Interfaces;
+namespace Geometria.Clases
+{
+  public abstract class Figuras:Lienzo
+    {
+        public Figuras()
+        {
+
+        }
+
+
+        public int NumeroLados  {get ;  set ;}
+        public string Simbolo { get; set; }
+        public int NumeroSimboloPorLado { get; set; }
+
+        public abstract string DibujarContorno();
+        public abstract string DibujarFiguraLLena();
+        public abstract string FirmaAutir();
+        public abstract int NumeroCaracteres();
+        public abstract string TituloFiguraDibujada();
+    }
+}

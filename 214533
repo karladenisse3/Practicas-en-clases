@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Geometria.Clases
+{
+  public  class Cuadrado:Figuras
+    {
+        public Cuadrado()
+        {
+
+        }
+
+        public override string DibujarContorno()
+        {
+
+            string cadena = "";
+            for (int i = 0; i < this.NumeroSimboloPorLado; i++)
+            {
+                cadena += this.Simbolo;
+              
+                for (int j = 0; j < this.NumeroSimboloPorLado; j++)
+                {
+                    if (j==0)
+                    {
+                        cadena += this.Simbolo;
+                  
+                    }
+                    for (int x = 0; x < this.NumeroSimboloPorLado; x++)
+                    {
+                        cadena += this.Simbolo;
+                       
+                    }
+                }
+            }
+            return cadena;
+            
+         
+           
+        }
+
+        public override string DibujarFiguraLLena()
+        {
+            return "";
+        }
+
+        public override string FirmaAutir()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override int NumeroCaracteres()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override string TituloFiguraDibujada()
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

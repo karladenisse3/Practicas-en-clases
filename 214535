@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Geometria.Clases
+{
+    class Rombo:Figuras
+    {
+        public Rombo()
+        {
+
+        }
+
+        public override string DibujarContorno()
+        {
+            return "";
+        }
+
+        public override string DibujarFiguraLLena()
+        {
+            return "";
+        }
+
+        public override string FirmaAutir()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override int NumeroCaracteres()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override string TituloFiguraDibujada()
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
